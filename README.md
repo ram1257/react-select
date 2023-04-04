@@ -16,7 +16,7 @@ React Select helps you develop powerful select components that _just work_ out o
 
 For the story behind this component, watch Jed's talk at React Conf 2019 - [building React Select](https://youtu.be/yS0jUnmBujE)
 
-Features include:
+Features include::
 
 - Flexible approach to data, with customisable functions
 - Extensible styling API with [emotion](https://emotion.sh)
